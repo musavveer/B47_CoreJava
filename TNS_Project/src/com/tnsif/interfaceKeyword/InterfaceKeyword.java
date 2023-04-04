@@ -1,6 +1,7 @@
 package com.tnsif.interfaceKeyword;
 
 // An interface in Java is a blueprint of a class. It has static constants and abstract methods.
+// IS-A relationship
 
 interface A {
 	int age=23; // by default variables are final and static
